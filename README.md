@@ -203,5 +203,3 @@ You will submit a link to a CodeSandbox with your responses. Make sure your Code
 - Other than the bugs, don't modify anything that will have a different outcome. Otherwise, your results might be invalidated.
 - Plagiarism is a serious offense and will result in disqualification from further consideration.
 
-### Apply Here
-[Application Link](https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd/application?utm_source=Simplify)
